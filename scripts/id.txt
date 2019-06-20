@@ -1,0 +1,13 @@
+1	aquarium
+2	bottle
+3	bowl
+4	box
+5	bucket
+6	plastic_bag
+7	plate
+8	styrofoam
+9	tire
+10	toilet
+11	tub
+12	washing_machine
+13	water_tower
